@@ -1,0 +1,7 @@
+i {
+  cursor: pointer;
+}
+i.delete {
+  color: red;
+  float: right;
+}
